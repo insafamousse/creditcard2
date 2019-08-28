@@ -1,6 +1,6 @@
 .card-name{
   background-image: url(https://ak2.picdn.net/shutterstock/videos/27210322/thumb/12.jpg) ;
-width: 30%;
+width: 40%;
 border-radius: 5% ;
 }
 .num{
@@ -19,3 +19,11 @@ border-radius: 5% ;
   .color{
     color: aliceblue;
   }
+.Val1{
+  display: flex ; 
+justify-content: space-between ;
+  color: blue ;
+}
+.Val2{
+  justify-content: space-between ;
+}
